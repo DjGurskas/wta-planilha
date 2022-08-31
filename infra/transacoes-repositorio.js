@@ -1,16 +1,5 @@
 const transacoes = {
-    transacoes: [
-        {
-            valor: 10,
-            descricao: "Pastel",
-            categoria: "Despesa"
-        },
-        {
-            valor: 3,
-            descricao: "Venda do Doce",
-            categoria: "Receita"
-        }
-    ]
+    transacoes: []
 }
 
 class TransacoesRepositorio {
