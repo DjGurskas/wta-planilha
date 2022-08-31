@@ -1,0 +1,10 @@
+GET https://3000-djgurskas-planilha-pi1403l1ase.ws-us63.gitpod.io/transacoes
+
+###
+
+POST https://3000-djgurskas-planilha-pi1403l1ase.ws-us63.gitpod.io/transacoes
+header name: header value
+
+Content-Type: application/json
+
+{"valor": 10}
