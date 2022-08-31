@@ -1,14 +1,18 @@
 const transacoes = {
-    "transacoes": [{
-        "valor": 10,
-        "descricao": "Pastel",
-    },
-    {
-        "valor": 3,
-        "descricao": "Doce"
-    }
+    transacoes: [
+        {
+            valor: 10,
+            descricao: "Pastel",
+            categoria: "Despesa"
+        },
+        {
+            valor: 3,
+            descricao: "Venda do Doce",
+            categoria: "Receita"
+        }
     ]
 }
+
 class TransacoesRepositorio {
 
     listarTransacoes() {

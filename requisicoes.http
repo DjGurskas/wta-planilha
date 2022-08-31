@@ -1,8 +1,8 @@
-GET https://3000-djgurskas-planilha-pi1403l1ase.ws-us63.gitpod.io/transacoes
+GET https://3000-djgurskas-planilha-pi1403l1ase.ws-us63.gitpod.io/
 
 ###
 
-POST https://3000-djgurskas-planilha-pi1403l1ase.ws-us63.gitpod.io/transacoes
+POST https://3000-djgurskas-planilha-pi1403l1ase.ws-us63.gitpod.io/
 header name: header value
 
 Content-Type: application/json
